@@ -37,4 +37,4 @@ Because i am sure, i will achive the high level of IT skills.
 - Ukrainian - Native
 - Russian - Native
 - Deutsch - Basic
-- English - Pre-Intermediate (I am currently studying on an online platform "EnglishDom" and personal offline classes)
+- English - A2 (I am currently studying on an online platform "EnglishDom" and personal offline classes)
