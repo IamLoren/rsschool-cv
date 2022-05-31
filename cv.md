@@ -2,7 +2,7 @@
 [a relative link] (link on photo)
 ### ***Junior front-end developer***
 ## Contact information:
-e-mail:    
+e-mail: neopoznannyi.enot@gmail.com
 GitHub: @iamloren   
 Discord: Loren#8465  
 Phone: +380502516172
